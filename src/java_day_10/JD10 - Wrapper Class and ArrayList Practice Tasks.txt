@@ -1,0 +1,127 @@
+1. Create a class called LettersDigitsSpecialChars and write a program with the following specifications:
+   1.1 Given a string, retrieve and display the letters, digits, and special characters separately.
+   Example:
+        
+	        Example:
+	            str = "Wooden Spoon123!"
+
+	        output:
+	            letters= "WoodenSpoon";
+	            Digits = "123";
+	            specialChars = " !";
+
+
+
+2. Create a class called UpperCaseAndLowerCase and write a program with the following specifications:
+   2.1 Given a string, return true if the total number of uppercase characters is equal to the total number of lowercase characters.
+        
+	        Eamplex:
+	            str = "JAVA java";
+
+	        output:
+	            true
+
+
+
+3. Create a class called DuplicateElements and write a program with the following specifications:
+   3.1 Given an ArrayList, duplicate each element in the list.
+
+		 	Example:
+                list = [1,2,3,4,5];
+
+            output:
+            	[1,2,3,4,5,1,2,3,4,5];
+
+
+
+4. Create a class called CombineTwoArrays and write a program with the following specifications:
+   4.1 Given two String arrays, combine them into one ArrayList.
+
+                Example:
+                    arr1 = {"A", "B", "C"};
+                    arr2 = {"D", "E", "F", "G"};
+
+                Output:
+                    list ==> {"A", "B", "C", "D", "E", "F", "G"}
+
+
+
+5. Create a class called MoveTheZeros and write a program with the following specifications:
+   5.1 Given an ArrayList, move all zeros to the last indexes of the ArrayList.
+
+	            Example:
+	                list: {1,0,2,0,3,0,4,0}
+
+	            output:
+	                [1, 2, 3, 4, 0, 0, 0, 0]
+
+
+
+6. Create a class called MultipOddNumbers and write a program with the following specifications:
+   6.1 Given an ArrayList, multiply each odd number by 2.
+				
+				Example: 
+					list = [1,2,3,4,5];
+
+				output:
+					[2,2,6,4,10]
+
+
+
+7. Create a class called MaximumAndMinimumNumbers and write a program with the following specifications:
+   7.1 Given an ArrayList of integers, find and display the maximum and minimum numbers without using any sorting.
+
+			Example:
+				list = [1,2,3,4,5];
+
+			output:
+			    Maximum number is 5
+			    Minimum number is 1
+
+
+
+8. Create a class called RemoveDuplicates and write a program with the following specifications:
+   8.1 Given an ArrayList of integers, remove duplicated numbers.
+
+			Example:
+				list = [1,1,2,2,3,3,4,4,5,6,7]
+
+			Output:
+				[1,2,3,4,5,6,7]
+
+
+
+9. Create a class called UniqueElements and write a program with the following specifications:
+   9.1 Given an ArrayList, display the unique elements without using any loops.
+
+			Example:
+				list = [1, 1, 2, 3, 3, 4, 5, 5]
+
+			output:
+				[2, 4]
+
+
+
+10. Create a class called RemoveLetters and write a program with the following steps:
+    10.1 Given an ArrayList of characters, remove all the letters.
+
+			Example:
+				list = {'$', A', 'B', '1', '2', 'c', 'd', '@', '!', '3', '4'}
+
+			output:
+				['$',  '1', '2', '@', '!', '3', '4']
+
+
+
+11. Create a class called SameFirstAndLast and write a program with the following specifications:
+    11.1 Given an ArrayList of strings, remove elements if the first and last characters of the string are the same.
+
+			Example:
+				list = {"Anna", "Canada", "Bob", "David", "Lan", "Abida", "Ebrahim", "Farida"}
+
+			output:
+				["Lan", "Ebrahim", "Farida"]
+
+
+
+
