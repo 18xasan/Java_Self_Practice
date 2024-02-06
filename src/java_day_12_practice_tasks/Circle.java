@@ -5,16 +5,12 @@ public class Circle {
     private int radius;
 
     public int getRadius() {
-        if (radius <= 0) {
-            System.err.println("Radius can not be negative or zero!");
-            System.exit(1);
-        }
         return radius;
     }
 
     public void setRadius(int radius) {
         if (radius <= 0) {
-            System.err.println("Radius can not be negative or zero!");
+            System.err.println("The radius cannot be set to a negative or zero value.");
             System.exit(1);
         }
 
