@@ -5,7 +5,6 @@ public class Rectangle {
     private double width, length;
 
     public double getWidth() {
-
         return width;
     }
 
@@ -18,7 +17,6 @@ public class Rectangle {
     }
 
     public double getLength() {
-
         return length;
     }
 
