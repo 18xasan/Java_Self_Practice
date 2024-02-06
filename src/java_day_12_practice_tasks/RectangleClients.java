@@ -1,8 +1,5 @@
 package java_day_12_practice_tasks;
-
-
 public class RectangleClients {
-
     public static void main(String[] args) {
 
         Rectangle rectangle1 = new Rectangle(4, 6);
@@ -20,7 +17,6 @@ public class RectangleClients {
         System.out.println(rectangle2.getLength());
         System.out.println(rectangle2.getWidth());
         System.out.println(rectangle2);
-
 
     }
 }
